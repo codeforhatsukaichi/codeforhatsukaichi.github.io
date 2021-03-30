@@ -1,2 +1,2 @@
-# codeforhatsukaichi.github.io
-Code for Hatsukaichi brigade GitHub site
+# About
+Code for Hatsukaichi ブリゲードのWebサイトをホストするためのレポジトリです。
